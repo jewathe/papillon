@@ -2,7 +2,7 @@
 
 ### Cloner le repertoire avec la command suivante:
  
- <img width="767" alt="image" src="https://github.com/user-attachments/assets/be3e0086-5d6a-4e90-a0d8-9663cc8c0e17">
+ <img width="767" alt="image" src="https://github.com/user-attachments/assets/015e37df-9461-4251-bf20-c463fd0858e5">
 
  ### Et lancez le fichier index.html
 
